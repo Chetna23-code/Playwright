@@ -21,9 +21,19 @@ A personal learning repository covering JavaScript fundamentals, identifier rule
     │   ├── 06_Identifier_Rules.js
     │   ├── 07_Identifier_Part2.js
     │   └── 08_Comments.js
-    └── Chapter_03_Identifier_Literals/     # VS Code shortcuts
-        ├── VS_Code_keyborad_ShortCut_mac.md
-        └── VS_Code_keyborad_ShortCut_windows.md
+    ├── Chapter_03_Identifier_Literals/     # VS Code shortcuts
+    │   ├── VS_Code_keyborad_ShortCut_mac.md
+    │   └── VS_Code_keyborad_ShortCut_windows.md
+    └── Chapter_04_Javascript_Concepts/     # Core JS concepts: variables, scope, hoisting
+        ├── 09_var_let_const.js
+        ├── 10_functions.js
+        ├── 11_var_explained.js
+        ├── 12_let_explained.js
+        ├── 13_const_explained.js
+        ├── 14_functionscope.js
+        ├── 15_let_scope.js
+        ├── 16_Hoisting.js
+        └── 17_Hoisting_Function.js
 ```
 
 ---
@@ -39,6 +49,16 @@ A personal learning repository covering JavaScript fundamentals, identifier rule
 | `08_Comments.js` | Single-line and multi-line comments in JavaScript |
 | `VS_Code_keyborad_ShortCut_*.md` | Default VS Code keyboard shortcuts for macOS and Windows |
 | `javascript_identifier_rules.js` | Runnable demo illustrating all 5 identifier rules with examples |
+| `Chapter_04_Javascript_Concepts/` | Core JavaScript concepts: `var`, `let`, `const`, functions, scope, and hoisting |
+| `09_var_let_const.js` | Comparison of `var`, `let`, and `const` declarations |
+| `10_functions.js` | Function declaration and calling syntax |
+| `11_var_explained.js` | Detailed behavior of `var`: function scope and redeclaration |
+| `12_let_explained.js` | Detailed behavior of `let`: block scope and reassignment |
+| `13_const_explained.js` | Detailed behavior of `const`: constants and block scope |
+| `14_functionscope.js` | Function scope demonstration with `var` |
+| `15_let_scope.js` | Block scope demonstration with `let` |
+| `16_Hoisting.js` | Variable hoisting with `var` |
+| `17_Hoisting_Function.js` | Function hoisting and variable hoisting within functions |
 
 ---
 
