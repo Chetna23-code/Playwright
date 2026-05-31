@@ -24,16 +24,21 @@ A personal learning repository covering JavaScript fundamentals, identifier rule
     ├── Chapter_03_Identifier_Literals/     # VS Code shortcuts
     │   ├── VS_Code_keyborad_ShortCut_mac.md
     │   └── VS_Code_keyborad_ShortCut_windows.md
-    └── Chapter_04_Javascript_Concepts/     # Core JS concepts: variables, scope, hoisting
-        ├── 09_var_let_const.js
-        ├── 10_functions.js
-        ├── 11_var_explained.js
-        ├── 12_let_explained.js
-        ├── 13_const_explained.js
-        ├── 14_functionscope.js
-        ├── 15_let_scope.js
-        ├── 16_Hoisting.js
-        └── 17_Hoisting_Function.js
+    ├── Chapter_04_Javascript_Concepts/     # Core JS concepts: variables, scope, hoisting
+    │   ├── 09_var_let_const.js
+    │   ├── 10_functions.js
+    │   ├── 11_var_explained.js
+    │   ├── 12_let_explained.js
+    │   ├── 13_const_explained.js
+    │   ├── 14_functionscope.js
+    │   ├── 15_let_scope.js
+    │   ├── 16_Hoisting.js
+    │   └── 17_Hoisting_Function.js
+    ├── Chapter_05_Literal/                # null vs undefined literals
+    │   └── 23_null_undefined.js
+    └── Chapter_05_Literals/               # Number literals and string quotes
+        ├── 26_Literal_Number_all.js
+        └── 29_Backtick_single_double.js
 ```
 
 ---
@@ -59,6 +64,9 @@ A personal learning repository covering JavaScript fundamentals, identifier rule
 | `15_let_scope.js` | Block scope demonstration with `let` |
 | `16_Hoisting.js` | Variable hoisting with `var` |
 | `17_Hoisting_Function.js` | Function hoisting and variable hoisting within functions |
+| `23_null_undefined.js` | Difference between `null` and `undefined` with examples |
+| `26_Literal_Number_all.js` | All JavaScript number types: integers, floats, binary, octal, hex, BigInt, Infinity, NaN |
+| `29_Backtick_single_double.js` | Difference between single quotes, double quotes, and backtick (template) literals |
 
 ---
 
